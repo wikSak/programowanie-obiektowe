@@ -1,4 +1,4 @@
-﻿using ConsoleApp1;
+﻿using ConsoleApp1.Lab1;
 Task1 task1 = new Task1();
 //task1.Run();
 
